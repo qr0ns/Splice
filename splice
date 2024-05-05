@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="crypto.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <title>vibrant</title>
+    <link rel="website icon" type="png" href="bitcoin.png">
+</head>
+<body>
+<div class="head">
+    <div class="head-container">
+        <div class="head-buttons">
+            <div class="image-logo">
+                <img class="logo" src="Frame.png">
+            </div>
+            <div class="buttons-top">
+                <a class="button" href="@">Home</a>
+                <a class="button" href="@">FAQ</a>
+                <a class="button" href="@">Blog</a>
+                <a class="button-1" href="@">Buy template</a>
+            </div>
+        </div>
+        <div class="head-title">
+            <div class="start-head">
+            Open your first crypto <br>wallet, right now!
+            </div>
+            <div class="title-text">
+                Vibrant is the best software platform to easily <br>capture user feed back for your brand and products.
+            </div>
+            <div class="template">
+                <img class="flame" src="Frame (1).png">
+                <a class="buy-template" href="@">But template</a>
+            </div>
+        </div>
+        <div class="pics">
+            <div class="main-pic">
+                <img class="pic-wallet"src="currentWal.png">
+                <div class="save">
+                    <span class="title-save">Savings</span>
+                    <img class="img-save" src="savings.png">
+                    <div class="balance">$2,380.00</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
