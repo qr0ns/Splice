@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding:0;
+}
+.head{
+    background-image: url(background-cryp.png);
+    height: 1090px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head-buttons{
+    position: relative;
+    font-family:"Roboto", sans-serif; 
+    font-weight:400px;
+}
+.image-logo{
+    padding-top:24px;
+    margin-left:24px;
+}
+.buttons-top{
+    text-align: right;
+    text-decoration: none;   
+}
+.button{
+    text-decoration: none;      
+    font-size:17px;
+    color:#fff;
+    margin-right:82px;
+}
+.button-1{
+    text-decoration: none;      
+    font-size:17px;
+    color:#fff;
+    margin-right:82px;
+    padding:19px 50px;
+    background-color:#fff;
+    color:#000;
+    border-radius: 10px;
+}
+.head-title{
+    position: relative;
+    font-family:"Roboto", sans-serif; 
+    font-weight:400px;
+    color:#fff;
+    text-align: center;
+    margin-top:181px;
+}
+.start-head{
+    font-size:46px;
+}
+.title-text{
+    margin-top:20px;
+    font-size:22px;
+}
+.template{
+    margin-top:30px;
+}
+.buy-template{
+    font-size:18px;
+    color:#fff;
+    padding:15px 50px;
+    text-decoration: none;
+    background-color:#965CFF;
+    border-radius: 10px;
+    transition: background-color 0.3s   ;
+}
+.flame{
+    position: absolute;right: 850px;
+}
+.buy-template:hover{
+    background-color: #7040c9;
+}
+.pics{
+    position: relative;
+}
+.main-pic{
+    margin-top:100px;
+    margin-left:380px;
+}
+.save{
+    position: relative;left:760px;top: -530px;
+}
+.title-save{
+    text-align: right;
+    z-index: 100;
+    font-size: 12px;
+}
+.balance{
+    position: absolute;right:180px;top:80px;   
+    z-index: 100;
+    font-size: 20px;
+}
